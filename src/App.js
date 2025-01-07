@@ -72,7 +72,7 @@ export default function App() {
         console.log("User is signed in:", user.email);
         setSession({
           user: {
-            name: 'Praveen Kumar',
+            name: 'Shreyas',
             email: user.email,
             image: <AccountCircleIcon />,
           },
@@ -96,7 +96,7 @@ export default function App() {
       signIn: () => {
         setSession({
           user: {
-            name: 'Praveen Kumar',
+            name: 'Shreyas',
             email: user.email,
             image: <AccountCircleIcon />,
           },
