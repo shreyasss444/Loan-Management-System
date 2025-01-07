@@ -4,12 +4,12 @@ import { Typography, Box, Link } from '@mui/material';
 
 const Contact = () => {
     const contactDetails = [
-        { label: 'Email', value: 'praveen@codingmstr.com', link: 'mailto:praveen@codingmstr.com' },
-        { label: 'Website', value: 'www.codingmstr.com', link: 'https://codingmstr.com' },
-        { label: 'WhatsApp', value: '+91-8789529215', link: 'https://wa.me/918789529215' },
-        { label: 'YouTube', value: 'youtube.com/@codingmstr', link: 'https://www.youtube.com/@codingmstr' },
-        { label: 'Instagram', value: 'instagram.com/codingmstr', link: 'https://www.instagram.com/codingmstr/' },
-        { label: 'GitHub', value: 'github.com/ipraveenkmr', link: 'https://github.com/ipraveenkmr' },
+        { label: 'Email', value: '', link: '' },
+        { label: 'Website', value: '', link: '' },
+        { label: 'WhatsApp', value: '', link: '' },
+        { label: 'YouTube', value: '', link: '' },
+        { label: 'Instagram', value: '', link: '' },
+        { label: 'GitHub', value: '', link: '' },
     ];
 
     return (
